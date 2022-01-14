@@ -59,5 +59,55 @@ namespace HotVHDPEDeployTool.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        internal static byte[] BOOTICE {
+            get {
+                object obj = ResourceManager.GetObject("BOOTICE", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Icon Icon1 {
+            get {
+                object obj = ResourceManager.GetObject("Icon1", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        internal static byte[] libwim_15 {
+            get {
+                object obj = ResourceManager.GetObject("libwim_15", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        internal static byte[] VHDXBootFile {
+            get {
+                object obj = ResourceManager.GetObject("VHDXBootFile", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Byte[] 类型的本地化资源。
+        /// </summary>
+        internal static byte[] wimlib_imagex {
+            get {
+                object obj = ResourceManager.GetObject("wimlib_imagex", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }

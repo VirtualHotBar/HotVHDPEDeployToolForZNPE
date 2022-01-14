@@ -1,0 +1,16 @@
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\bin\Debug\HotVHDPEDeployTool.exe.config
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\bin\Debug\HotVHDPEDeployTool.exe
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\bin\Debug\HotVHDPEDeployTool.pdb
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.csproj.AssemblyReference.cache
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.csproj.SuggestedBindingRedirects.cache
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.Form1.resources
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.Properties.Resources.resources
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.csproj.GenerateResource.cache
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.csproj.CoreCompileInputs.cache
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.exe
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.pdb
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.TrustInfo.xml
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.exe.manifest
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\bin\Debug\HotVHDPEDeployTool.exe.manifest
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\bin\Debug\HotVHDPEDeployTool.application
+E:\Program\HotVHDPEDeployTool\HotVHDPEDeployTool\HotVHDPEDeployTool\obj\Debug\HotVHDPEDeployTool.application
